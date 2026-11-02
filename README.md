@@ -1,14 +1,14 @@
-# Nom du projet 
+# Portfolio
 
 ## Description :
-Ceci est une description 
+Réaliser un Portfolio avec le template et les cours que nous ont donné Drôle de Dev.
 
 
 ### Équipe : 
-- 
+- Noan Payet
 
 ### Technologie utilisée (language, algorithme...) :
-- 
+- HTML-CSS-(TypeScript-Tailwind CSS)
 
 ### Résultats :
 - 
